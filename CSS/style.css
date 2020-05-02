@@ -96,7 +96,7 @@ a button:hover
 
 .block5
 {
-    height: 200px;
+    height: 250px;
     color: black;
     font-size: 25px;
     margin-top: 0px;
@@ -353,28 +353,28 @@ blockquote:after
 {
     .block7
     {
-        height: 700px;
+        height: 800px;
     }
 }
 @media (max-width:560px)
 {
     .block7
     {
-        height: 850px;
+        height: 950px;
     }
 }
 @media (max-width:447px)
 {
     .block7
     {
-        height: 1000px;
+        height: 1100px;
     }
 }
 @media (max-width:357px)
 {
     .block7
     {
-        height: 1200px;
+        height: 1300px;
     }
 }
 
@@ -566,11 +566,4 @@ blockquote:after
     margin-top: 20px;
     float: left;
     margin-left: 40px;
-}
-
-.Image2:hover 
-{
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1.5);
 }
